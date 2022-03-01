@@ -1,0 +1,17 @@
+{
+    ".png": "images",
+    ".PNG": "images",
+    ".jpeg": "images",
+    ".jpg": "images",
+    ".pdf": "pdf",
+    ".docx": "word",
+    ".csv": "database",
+    ".sql": "databace",
+    ".zip": "compressed",
+    ".rar": "compressed",
+    ".deb": "exe",
+    ".app": "exe",
+    ".exe": "exe",
+    ".dmg": "docs",
+    ".mp4": "video"
+}
